@@ -1,0 +1,30 @@
+ankle1.jpg Ankle boot
+ankle2.jpg Ankle boot
+ankle3.jpg Ankle boot
+bag1.jpg Bag
+bag2.jpg Bag
+bag3.jpg Bag
+coat1.jpg Coat
+coat2.jpg Coat
+coat3.jpg Coat
+dress1.jpg Dress
+dress2.jpg Dress
+dress3.jpg Dress
+sandal1.jpg Sandal
+sandal2.jpg Sandal
+sandal3.jpg Sandal
+shirt1.jpg Shirt
+shirt2.jpg  Shirt
+shirt3.jpg  Shirt
+sneaker1.jpg Sneaker
+sneaker2.jpg Sneaker
+sneaker3.jpg Sneaker
+sweater1.jpg Sweater
+sweater2.jpg Sweater
+sweater3.jpg Sweater
+trouser1.jpg Trouser
+trouser2.jpg Trouser
+trouser3.jpg Trouser
+tshirt1.jpg T-Shirt
+tshirt2.jpg T-Shirt
+tshirt3.jpg T-Shirt
