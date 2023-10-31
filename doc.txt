@@ -1,0 +1,30 @@
+ankle.jfif Ankle boot
+ankle2.jfif Ankle boot
+ankle3.jfif Ankle boot
+bag1.jfif Bag
+bag2.jfif Bag
+bag3.jfif Bag
+coat1.jfif Coat
+coat2.jfif Coat
+coat3.jfif Coat
+dress1.jfif Dress
+dress2.jfif Dress
+dress3.jfif Dress
+sandal1.jfif Sandal
+sandal2.jfif Sandal
+sandal3.jfif Sandal
+shirt1.jfif Shirt
+shirt2.jfif  Shirt
+shirt3.jfif  Shirt
+sneaker1.jfif Sneaker
+sneaker2.jfif Sneaker
+sneaker3.jfif Sneaker
+sweater1.jfif Sweater
+sweater2.jfif Sweater
+sweater3.jfif Sweater
+trouser.jfif Trouser
+trouser2.jfif Trouser
+trouser3.jfif Trouser
+tshirt1.jfif T-Shirt
+tshirt2.jfif T-Shirt
+tshirt3.jfif T-Shirt
